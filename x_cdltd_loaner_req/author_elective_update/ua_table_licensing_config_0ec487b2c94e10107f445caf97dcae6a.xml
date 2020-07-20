@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_cdltd_loaner_req_loaner_request</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 20:38:13</sys_created_on>
+        <sys_id>0ec487b2c94e10107f445caf97dcae6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req_loaner_request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">fe734372c94e10107f445caf97dcae06</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">fe734372c94e10107f445caf97dcae06</sys_scope>
+        <sys_update_name>ua_table_licensing_config_0ec487b2c94e10107f445caf97dcae6a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 20:38:13</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">fe734372c94e10107f445caf97dcae06</application>
+        <file_path/>
+        <instance_id>e39d3bde1bca18d088c56288bd4bcb62</instance_id>
+        <instance_name>adf-jul-822-dev-001</instance_name>
+        <name>ua_table_licensing_config_0ec487b2c94e10107f445caf97dcae6a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_cdltd_loaner_req_loaner_request</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 20:38:13</sys_created_on><sys_id>0ec487b2c94e10107f445caf97dcae6a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_loaner_req_loaner_request</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">fe734372c94e10107f445caf97dcae06</sys_package><sys_policy/><sys_scope display_value="Loaner Request">fe734372c94e10107f445caf97dcae06</sys_scope><sys_update_name>ua_table_licensing_config_0ec487b2c94e10107f445caf97dcae6a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 20:38:13</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-56493501</payload_hash>
+        <record_name>x_cdltd_loaner_req_loaner_request</record_name>
+        <reverted_from/>
+        <source>b2734372c94e10107f445caf97dcae09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 20:38:13</sys_created_on>
+        <sys_id>4ec487b2c94e10107f445caf97dcae6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1736df2c6230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 20:38:13</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>86c487b20c4e10109c8354433919d76c</update_guid>
+        <update_guid_history>86c487b20c4e10109c8354433919d76c:-56493501</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 20:39:18</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>7df0be0cf20b485e9ef06221b6db0e84</sys_id>
+        <sys_metadata>0ec487b2c94e10107f445caf97dcae6a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req_loaner_request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">fe734372c94e10107f445caf97dcae06</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">fe734372c94e10107f445caf97dcae06</sys_scope>
+        <sys_scope_delete display_value="">34c0542ad20a40d99af5c1cee6bb3671</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_0ec487b2c94e10107f445caf97dcae6a</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_0ec487b2c94e10107f445caf97dcae6a">4ec487b2c94e10107f445caf97dcae6c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 20:39:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
